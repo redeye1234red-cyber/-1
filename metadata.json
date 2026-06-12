@@ -1,0 +1,6 @@
+{
+  "name": "ระบบยืมอุปกรณ์",
+  "description": "A smart office asset locker system to borrow and return equipment, track repair status, and analyze statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
